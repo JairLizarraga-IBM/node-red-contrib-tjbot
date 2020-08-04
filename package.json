@@ -20,7 +20,7 @@
     }
   },
   "dependencies": {
-    "@jairlizarraga/tjbotlib": "^1.5.x"
+    "tjbotlib-jl": "^1.5.x"
   },
   "author": "JeanCarl Bisson <jbisson@us.ibm.com> (http://jeancarlbisson.com)",
   "license": "ISC",
