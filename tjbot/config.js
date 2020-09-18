@@ -19,7 +19,7 @@
 ****************************************************************************/
 
 var tj = require("./tjbot.js");
-var TJBot = require("tjbot");
+var TJBot = require("tjbotlib-jl");
 
 module.exports = function(RED) {
   function TJBotNodeConfig(config) {
